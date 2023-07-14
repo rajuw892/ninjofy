@@ -1,0 +1,16 @@
+.btn {
+  width: 151px;
+  height: 36px;
+  flex-shrink: 0;
+}
+
+.signin {
+  color: #000;
+  font-family: Source Sans Pro;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-decoration: none;
+  pointer-events: none;
+}
